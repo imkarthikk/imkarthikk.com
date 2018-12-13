@@ -1,8 +1,8 @@
 ---
-title: "Home"
-description: "Description"
+title: "Karthik K"
+description: "Thoughts, insights, top of my mind thoughts."
 image: "images/og.png"
-date: 2018-02-05 12:23:42 +0000
+date: 2018-12-12 12:23:42 +0000
 ---
 <div class="row">
 	<div class="small-12 medium-5 large-5 medium-centered columns">

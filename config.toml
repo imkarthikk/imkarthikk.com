@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://karthikk.net"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Karthik K"
 
 enableRobotsTXT = true
 enableEmoji = true
