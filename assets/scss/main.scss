@@ -1,0 +1,47 @@
+::selection {
+    background-color: #E61E25;
+    color: #FFFFFF;
+}
+body {
+	background: #FFFEF2;
+}
+p, ul, li, ol {
+	font-size: 13px;
+	color: #444444;
+}
+a {
+	color: #E61E25;
+	&:hover {
+		color: #000000;
+	}
+}
+.wrapper {
+	padding: 30px;
+}
+.Header {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	a {
+		color: #555555;
+	}
+}
+.Signature {
+	padding-top: 50px;
+	width: 50%;
+}
+.push-right {
+	padding-right: 5px;
+}
+.Social {
+	padding-top: 20px;
+	a {
+		color: #B1B1B1;
+		&:hover {
+			color: #E61E25;
+		}
+	}
+}
+.Writing {
+	padding-left: 40px;
+	padding-right: 40px;
+}

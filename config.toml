@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+enableRobotsTXT = true
+enableEmoji = true
+canonifyURLs = true
+enableGitInfo = true
+disableHugoGeneratorInject = true
